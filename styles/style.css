@@ -1,1 +1,108 @@
-/* место для вашего кода */
+.header {
+  font-size: 18px;
+  padding: 92px 24px 96px 24px;
+}
+
+.nav {
+  display: flex;
+  Flex-direction: row;
+  justify-items: center;
+  align-items: center;
+}
+
+.menu {
+  padding: 0 36px 0 26px;
+  white-space: nowrap;
+}
+
+.ul_nav {
+  display: flex;
+  gap: 34px;
+}
+
+.li_nav {
+  list-style: circle;
+}
+
+.li_nav.link_home {
+  list-style-type: none;
+}
+
+.link {
+  color: #000;
+}
+
+.link.that_page {
+  color: #000;
+  text-decoration: none;
+}
+
+/* Навигация слева */
+
+.logo {
+}
+
+.link_logo {
+}
+
+.logo_img {
+  display: block;       /*Если дать лого display: block; то ссылка внутри покроет весь блок*/
+  max-height: 136px;
+  min-height: 105px;
+}
+
+/* Логотип */
+
+.adress {
+  margin-left: 184px;  
+}
+
+.ul_n {
+  list-style-type: none;
+  line-height: 24px;
+}
+
+.li_n {
+  
+}
+
+.number {
+  color: #000;
+}
+
+.mail {
+  color: #000;
+}
+
+.span_adress{
+  color: #000;
+
+}
+
+/* Адрес */
+
+.cover {
+  display: flex;
+  background-image: url(../images/cover.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.section {
+  
+}
+
+.title_all {
+  width: 100%;
+  font-size: 100px;
+  padding: 165px 50px 237px;
+  color: #fff;
+  letter-spacing: 30px;
+  text-transform: uppercase;
+}
+.title_ono {
+
+}
+
+.title_o {
+}
