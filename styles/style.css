@@ -455,7 +455,7 @@ p {
 .lots__card-list {
  display: flex;
  gap: 25px;
- padding-top: 25px;
+ padding-top: 29px;
 }
 
 .cards {
