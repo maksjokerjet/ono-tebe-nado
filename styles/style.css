@@ -95,10 +95,6 @@
   text-align: right;
 }
 
-.cover_title_high_spacing {
-  letter-spacing: 60px; /* Новый парамерт и класс для выравнивания текста по центру по РЕВЬЮ */
-}
-
 .cover_title_low_spacing {
   letter-spacing: 0;
 }
